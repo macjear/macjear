@@ -41,8 +41,8 @@
 ### a little about me
 
 ```
-▸ fueled entirely by matcha lattes and this subtle joy of a green froth
-▸ miffy has been my spirit animal since before I knew what a test case was
+▸ fueled entirely by matcha lattes
+▸ phd in miffy! living in her whimsy world
 ▸ passion for software quality and building tools that support teams
 ▸ aspiring photographer of small..easy-to-miss things
 ▸ loves weekend walks!
